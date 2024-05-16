@@ -1,5 +1,7 @@
+### Hi there, I'm Nikita Chuvilo
 
+[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/nikitac-)
 
-<a href="https://github.com/Nick-Fisher">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nick-Fisher&count_private=true&show_icons=true" />
-</a>
+## **I'm a Full-Stack engineer at CloudGeometry.**
+
+- 📫 **How to reach me**: Reach out and connect with me on LinkedIn! 👆
